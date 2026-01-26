@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Spider-Man:ISTV -->
-<img src="https://i.pinimg.com/originals/1b/40/65/1b4065b2c6c11a4ff8dca4b7a956cf83.gif" width="100%" alt="Spider-Man:ISTV"/>
+<img src="https://i.pinimg.com/originals/1b/40/65/1b4065b2c6c11a4ff8dca4b7a956cf83.gif" width="100%" alt=" Spider-Man:ISTV "/>
 
 <br/><br/>
 
@@ -32,7 +32,7 @@
     <img src="https://cdn.simpleicons.org/typescript/3178C6" width="18"/> TypeScript •
     <img src="https://cdn.simpleicons.org/python/3776AB" width="18"/> Python •
     <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="18"/> Kotlin •
-    <img src="https://cdn.simpleicons.org/java/ED8B00" width="18"/> Java •
+    <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="18"/> Java •
     <img src="https://cdn.simpleicons.org/c/A8B9CC" width="18"/> C •
     <!-- <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="18"/> C++ • -->
     <!-- <img src="https://cdn.simpleicons.org/rust/000000" width="18"/> Rust -->
@@ -118,7 +118,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alenbosh&layout=compact&theme=radical&border_color=FF00FF&title_color=FF00FF&bg_color=0D1117&langs_count=8" width="49%" alt="Top Languages"/>
 
-
 </div>
 
 <br/>
@@ -155,11 +154,8 @@
 
 <br/>
 
-<div align="center">
-
-<img src="./clock.svg" alt="Current Time"/>
-
-</div>
+<!-- Footer The Bear GIF (optional) -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGY5ZjFhNjE5ZjBkMjk0YjQwZjA3YmI3ZjFjZmE5OGE2YmRhYzRmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qVVhOAy5KPNqEPNeCA/giphy.gif" width="300"/>
 
 <br/>
 
