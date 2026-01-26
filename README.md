@@ -117,7 +117,7 @@
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alenbosh&layout=compact&theme=radical&border_color=FF00FF&title_color=FF00FF&bg_color=0D1117&langs_count=8" width="49%" alt="Top Languages"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alenbosh&theme=react-dark&bg_color=0D1117&color=FF00FF&line=00F7FF&point=FFFFFF&area=true&hide_border=false&border_color=FF00FF" width="49%" alt="Activity Graph"/>
+
 
 </div>
 
