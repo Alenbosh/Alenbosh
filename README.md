@@ -25,6 +25,19 @@
 
 <table align="center">
 <tr>
+  <tr>
+  <td align="center" width="25%"><b>Languages</b></td>
+  <td>
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="18"/> JavaScript •
+    <img src="https://cdn.simpleicons.org/typescript/3178C6" width="18"/> TypeScript •
+    <img src="https://cdn.simpleicons.org/python/3776AB" width="18"/> Python •
+    <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="18"/> Kotlin •
+    <img src="https://cdn.simpleicons.org/java/ED8B00" width="18"/> Java •
+    <img src="https://cdn.simpleicons.org/c/A8B9CC" width="18"/> C •
+    <!-- <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="18"/> C++ • -->
+    <!-- <img src="https://cdn.simpleicons.org/rust/000000" width="18"/> Rust -->
+  </td>
+  </tr>
   <td align="center" width="25%"><b>Frontend</b></td>
   <td>
     <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="18"/> JavaScript •
