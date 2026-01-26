@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Chainsaw Man Banner -->
-<img src="https://i.pinimg.com/originals/1b/40/65/1b4065b2c6c11a4ff8dca4b7a956cf83.gif" width="100%" alt="Chainsaw Man Banner"/>
+<!-- Spider-Man:ISTV -->
+<img src="https://i.pinimg.com/originals/1b/40/65/1b4065b2c6c11a4ff8dca4b7a956cf83.gif" width="100%" alt="Spider-Man:ISTV"/>
 
 <br/><br/>
 
@@ -129,15 +129,11 @@
 
 <br/>
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alenbosh/Alenbosh/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alenbosh/Alenbosh/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alenbosh/Alenbosh/output/github-snake.svg">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alenbosh&theme=react-dark&bg_color=0D1117&color=FF00FF&line=00F7FF&point=FFFFFF&area=true&hide_border=false&border_color=FF00FF&custom_title=Contribution%20Graph" width="98%" alt="Contribution Graph"/>
 
 </div>
 
@@ -159,8 +155,11 @@
 
 <br/>
 
-<!-- Footer Chainsaw Man GIF (optional) -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGY5ZjFhNjE5ZjBkMjk0YjQwZjA3YmI3ZjFjZmE5OGE2YmRhYzRmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qVVhOAy5KPNqEPNeCA/giphy.gif" width="300"/>
+<div align="center">
+
+<img src="./clock.svg" alt="Current Time"/>
+
+</div>
 
 <br/>
 
