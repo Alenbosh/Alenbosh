@@ -1,9 +1,8 @@
 <div align="center">
 
-<!-- <!-- Spider-Man:ISTV --> -->
-<!-- <img src="https://i.pinimg.com/originals/1b/40/65/1b4065b2c6c11a4ff8dca4b7a956cf83.gif" width="100%" alt=" Spider-Man:ISTV "/> -->
-<!---->
-<!-- <br/><br/> -->
+<!-- Footer The Bear GIF (optional) -->
+<img src="https://i.pinimg.com/736x/31/97/b2/3197b268ee78f2b1d2a2ac460ffaed1a.jpg" width="100%"/>
+<br/><br/>
 
 <!-- Animated Title -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=2800&pause=1000&color=FF00FF&center=true&vCenter=true&width=650&lines=ALEN+BOSH;Full+Stack+Developer;System+Architect" alt="Typing SVG" />
@@ -153,12 +152,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 <br/>
-
-<!-- Footer The Bear GIF (optional) -->
-<img src="https://i.pinimg.com/736x/31/97/b2/3197b268ee78f2b1d2a2ac460ffaed1a.jpg" width="100%"/>
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=Alenbosh&color=FF00FF&style=flat-square&label=Profile+Views)
-
 </div>
