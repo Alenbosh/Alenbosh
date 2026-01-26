@@ -6,7 +6,7 @@
 <br/><br/>
 
 <!-- Animated Title -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=2800&pause=1000&color=FF00FF&center=true&vCenter=true&width=650&lines=ALEN+BOSH;Full+Stack+Developer;System+Architect;⛓️+Chainsaw+Man+Fan" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=2800&pause=1000&color=FF00FF&center=true&vCenter=true&width=650&lines=ALEN+BOSH;Full+Stack+Developer;System+Architect" alt="Typing SVG" />
 
 <br/>
 
@@ -30,19 +30,19 @@
     <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="18"/> JavaScript •
     <img src="https://cdn.simpleicons.org/typescript/3178C6" width="18"/> TypeScript •
     <img src="https://cdn.simpleicons.org/react/61DAFB" width="18"/> React •
-    <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="18"/> Next.js •
-    <img src="https://cdn.simpleicons.org/greensock/88CE02" width="18"/> GSAP •
-    <img src="https://cdn.simpleicons.org/threedotjs/000000" width="18"/> Three.js
+    <!-- <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="18"/> Next.js • -->
+    <!-- <img src="https://cdn.simpleicons.org/greensock/88CE02" width="18"/> GSAP • -->
+    <!-- <img src="https://cdn.simpleicons.org/threedotjs/000000" width="18"/> Three.js -->
   </td>
 </tr>
 <tr>
   <td align="center"><b>Backend</b></td>
   <td>
-    <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="18"/> Node.js •
+    <!-- <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="18"/> Node.js • -->
     <img src="https://cdn.simpleicons.org/express/000000" width="18"/> Express •
-    <img src="https://cdn.simpleicons.org/prisma/2D3748" width="18"/> Prisma •
-    <img src="https://cdn.simpleicons.org/mongodb/47A248" width="18"/> MongoDB •
-    <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="18"/> PostgreSQL
+    <!-- <img src="https://cdn.simpleicons.org/prisma/2D3748" width="18"/> Prisma • -->
+    <!-- <img src="https://cdn.simpleicons.org/mongodb/47A248" width="18"/> MongoDB • -->
+    <!-- <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="18"/> PostgreSQL -->
   </td>
 </tr>
 <tr>
@@ -57,8 +57,10 @@
 <tr>
   <td align="center"><b>Mobile</b></td>
   <td>
-    <img src="https://cdn.simpleicons.org/react/61DAFB" width="18"/> React Native •
-    <img src="https://cdn.simpleicons.org/expo/000020" width="18"/> Expo
+    <!-- <img src="https://cdn.simpleicons.org/react/61DAFB" width="18"/> React Native • -->
+    <!-- <img src="https://cdn.simpleicons.org/expo/000020" width="18"/> Expo -->
+    <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="18"/> Kotlin •
+    <img src="https://cdn.simpleicons.org/android/3DDC84" width="18"/> Android
   </td>
 </tr>
 </table>
@@ -97,7 +99,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Alenbosh&show_icons=true&theme=radical&border_color=FF00FF&title_color=FF00FF&icon_color=00F7FF&bg_color=0D1117&hide_border=false" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alenbosh&theme=radical&border=FF00FF&background=0D1117&ring=FF00FF&fire=00F7FF&currStreakLabel=FF00FF" width="49%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alenbosh&theme=radical&border=FF00FF&background=0D1117&ring=FF00FF&fire=00F7FF&currStreakLabel=FF00FF" />
 
 <br/><br/>
 
