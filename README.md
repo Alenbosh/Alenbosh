@@ -99,7 +99,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Alenbosh&show_icons=true&theme=radical&border_color=FF00FF&title_color=FF00FF&icon_color=00F7FF&bg_color=0D1117&hide_border=false" width="49%" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com/?user=Alenbosh&theme=radical&border=FF00FF&background=0D1117&ring=FF00FF&fire=00F7FF&currStreakLabel=FF00FF" />
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Alenbosh&theme=radical&border=FF00FF&background=0D1117&ring=FF00FF&fire=00F7FF&currStreakLabel=FF00FF" />
 
 <br/><br/>
 
