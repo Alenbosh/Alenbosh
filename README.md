@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Spider-Man:ISTV -->
-<img src="https://i.pinimg.com/originals/1b/40/65/1b4065b2c6c11a4ff8dca4b7a956cf83.gif" width="100%" alt=" Spider-Man:ISTV "/>
-
-<br/><br/>
+<!-- <!-- Spider-Man:ISTV --> -->
+<!-- <img src="https://i.pinimg.com/originals/1b/40/65/1b4065b2c6c11a4ff8dca4b7a956cf83.gif" width="100%" alt=" Spider-Man:ISTV "/> -->
+<!---->
+<!-- <br/><br/> -->
 
 <!-- Animated Title -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=2800&pause=1000&color=FF00FF&center=true&vCenter=true&width=650&lines=ALEN+BOSH;Full+Stack+Developer;System+Architect" alt="Typing SVG" />
