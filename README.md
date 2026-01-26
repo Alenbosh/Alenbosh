@@ -155,7 +155,7 @@
 <br/>
 
 <!-- Footer The Bear GIF (optional) -->
-<img src="https://i.pinimg.com/736x/31/97/b2/3197b268ee78f2b1d2a2ac460ffaed1a.jpg" width="300"/>
+<img src="https://i.pinimg.com/736x/31/97/b2/3197b268ee78f2b1d2a2ac460ffaed1a.jpg" width="100%"/>
 
 <br/>
 
