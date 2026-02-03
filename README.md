@@ -46,18 +46,18 @@
     <!-- <img src="https://cdn.simpleicons.org/greensock/88CE02" width="18"/> GSAP • -->
     <!-- <img src="https://cdn.simpleicons.org/threedotjs/000000" width="18"/> Three.js -->
   </td>
-</tr>
+<!-- </tr>
 <tr>
   <td align="center"><b>Backend</b></td>
   <td>
     <!-- <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="18"/> Node.js • -->
-    <img src="https://cdn.simpleicons.org/express/000000" width="18"/> Express •
+    <!-- <img src="https://cdn.simpleicons.org/express/000000" width="18"/> Express • -->
     <!-- <img src="https://cdn.simpleicons.org/prisma/2D3748" width="18"/> Prisma • -->
     <!-- <img src="https://cdn.simpleicons.org/mongodb/47A248" width="18"/> MongoDB • -->
     <!-- <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="18"/> PostgreSQL -->
-  </td>
-</tr>
-<tr>
+  <!-- </td>
+</tr> -->
+<tr> 
   <td align="center"><b>DevOps</b></td>
   <td>
     <img src="https://cdn.simpleicons.org/docker/2496ED" width="18"/> Docker •
